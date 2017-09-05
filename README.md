@@ -1,4 +1,4 @@
 # alexeisele.github.io
 Personal Website Repository
 
-Credit to html5up.net for providing the Prologue theme and site template
+Credit to [Ryan Fitzgerald's Dev Portfolio Template](https://github.com/RyanFitzgerald/devportfolio-template) for providing the theme and site template
